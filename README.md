@@ -1,4 +1,6 @@
 # Building the Web of Things - Code
+# test op wijzigingen
+#
 This repository contains all the Node.js and JavaScript code examples from the [Building the Web of Things](http://book.webofthings.io) book.
 
 # Node version compatibility
